@@ -5,10 +5,10 @@ Tech Projects:https://www.figma.com/design/EKBSi2lIFmXPc9QCPUwlbm/Portfolio?node
 
 https://docs.google.com/document/d/1ROKGbthdlX_ldKU5eMk2Die5cPhFTVb1PIgAita3QD8/edit?tab=t.0 https://docs.google.com/document/d/1XxwXi8z8oFbiam0D_0R6H2xo0wSQvwCZ/edit 
 Social Media:https://www.instagram.com/spazzoutdre._?igsh=MTMwa3NiM2lscmxsaw%3D%3D&utm_source=qr 
+Hoping to better my skills in coding with github.
 
 
 
 
-
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I want to create an AI app dedicated to stock trading and alerts  
 -->
